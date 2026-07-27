@@ -58,18 +58,18 @@
         "name": "大潭山郊野公園",
         "address": "氹仔天文台斜路",
         "openHour": "全日",
-        "photo": "https://www.iam.gov.mo/showFile.ashx?p=iamweb/List13/887_5c59e673d1fd15cdb9954e06d9e13003.jpg",
-        "lat": 22.1583407,
-        "lng": 113.5723572
+        "photo": "https://www.iam.gov.mo/showFile.ashx?p=iamweb/List13/663_41f22a6ae20ea2c2c715015db505ec31.jpg",
+        "lat": 22.1548527,
+        "lng": 113.561562
     },
     {
         "type": "iam",
         "name": "大潭山郊野公園",
         "address": "氹仔天文台斜路",
         "openHour": "全日",
-        "photo": "https://www.iam.gov.mo/showFile.ashx?p=iamweb/List13/663_41f22a6ae20ea2c2c715015db505ec31.jpg",
-        "lat": 22.1548527,
-        "lng": 113.561562
+        "photo": "https://www.iam.gov.mo/showFile.ashx?p=iamweb/List13/887_5c59e673d1fd15cdb9954e06d9e13003.jpg",
+        "lat": 22.1583407,
+        "lng": 113.5723572
     },
     {
         "type": "iam",
@@ -139,15 +139,6 @@
         "name": "氹仔海濱休憩區",
         "address": "氹仔東亞運大馬路、東亞運圓形地及海洋大馬路的沿海位置",
         "openHour": "全日",
-        "photo": "https://www.iam.gov.mo/showFile.ashx?p=iamweb/List13/754_199c732119a9fc5faa2f8cdb996e11b2.jpg",
-        "lat": 22.162572,
-        "lng": 113.541126
-    },
-    {
-        "type": "iam",
-        "name": "氹仔海濱休憩區",
-        "address": "氹仔東亞運大馬路、東亞運圓形地及海洋大馬路的沿海位置",
-        "openHour": "全日",
         "photo": "https://www.iam.gov.mo/showFile.ashx?p=iamweb/List13/554_511b896838519045dcdf1eb782eaaf65.jpg",
         "lat": 22.16281767305374,
         "lng": 113.54107528924945
@@ -160,6 +151,15 @@
         "photo": "https://www.iam.gov.mo/showFile.ashx?p=iamweb/List13/906_c078f156bab97c545f11e201ec59501b.jpg",
         "lat": 22.16420788171024,
         "lng": 113.53966273065454
+    },
+    {
+        "type": "iam",
+        "name": "氹仔海濱休憩區",
+        "address": "氹仔東亞運大馬路、東亞運圓形地及海洋大馬路的沿海位置",
+        "openHour": "全日",
+        "photo": "https://www.iam.gov.mo/showFile.ashx?p=iamweb/List13/754_199c732119a9fc5faa2f8cdb996e11b2.jpg",
+        "lat": 22.162572,
+        "lng": 113.541126
     },
     {
         "type": "iam",
@@ -238,18 +238,18 @@
         "name": "石排灣郊野公園",
         "address": "路環石排灣馬路",
         "openHour": "06:00-22:00",
-        "photo": "https://www.iam.gov.mo/showFile.ashx?p=iamweb/List13/608_1e3d969aec8dcb7a75483f8ffa22441e.jpg",
-        "lat": 22.12565148286854,
-        "lng": 113.55683408014289
+        "photo": "https://www.iam.gov.mo/showFile.ashx?p=iamweb/List13/750_55ca3e56289f8b907fd278b18364b00c.jpg",
+        "lat": 22.12677900997999,
+        "lng": 113.55826788299457
     },
     {
         "type": "iam",
         "name": "石排灣郊野公園",
         "address": "路環石排灣馬路",
         "openHour": "06:00-22:00",
-        "photo": "https://www.iam.gov.mo/showFile.ashx?p=iamweb/List13/750_55ca3e56289f8b907fd278b18364b00c.jpg",
-        "lat": 22.12677900997999,
-        "lng": 113.55826788299457
+        "photo": "https://www.iam.gov.mo/showFile.ashx?p=iamweb/List13/608_1e3d969aec8dcb7a75483f8ffa22441e.jpg",
+        "lat": 22.12565148286854,
+        "lng": 113.55683408014289
     },
     {
         "type": "iam",
