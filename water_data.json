@@ -139,18 +139,18 @@
         "name": "氹仔海濱休憩區",
         "address": "氹仔東亞運大馬路、東亞運圓形地及海洋大馬路的沿海位置",
         "openHour": "全日",
-        "photo": "https://www.iam.gov.mo/showFile.ashx?p=iamweb/List13/554_511b896838519045dcdf1eb782eaaf65.jpg",
-        "lat": 22.16281767305374,
-        "lng": 113.54107528924945
+        "photo": "https://www.iam.gov.mo/showFile.ashx?p=iamweb/List13/906_c078f156bab97c545f11e201ec59501b.jpg",
+        "lat": 22.16420788171024,
+        "lng": 113.53966273065454
     },
     {
         "type": "iam",
         "name": "氹仔海濱休憩區",
         "address": "氹仔東亞運大馬路、東亞運圓形地及海洋大馬路的沿海位置",
         "openHour": "全日",
-        "photo": "https://www.iam.gov.mo/showFile.ashx?p=iamweb/List13/906_c078f156bab97c545f11e201ec59501b.jpg",
-        "lat": 22.16420788171024,
-        "lng": 113.53966273065454
+        "photo": "https://www.iam.gov.mo/showFile.ashx?p=iamweb/List13/554_511b896838519045dcdf1eb782eaaf65.jpg",
+        "lat": 22.16281767305374,
+        "lng": 113.54107528924945
     },
     {
         "type": "iam",
@@ -238,18 +238,18 @@
         "name": "石排灣郊野公園",
         "address": "路環石排灣馬路",
         "openHour": "06:00-22:00",
-        "photo": "https://www.iam.gov.mo/showFile.ashx?p=iamweb/List13/608_1e3d969aec8dcb7a75483f8ffa22441e.jpg",
-        "lat": 22.12565148286854,
-        "lng": 113.55683408014289
+        "photo": "https://www.iam.gov.mo/showFile.ashx?p=iamweb/List13/750_55ca3e56289f8b907fd278b18364b00c.jpg",
+        "lat": 22.12677900997999,
+        "lng": 113.55826788299457
     },
     {
         "type": "iam",
         "name": "石排灣郊野公園",
         "address": "路環石排灣馬路",
         "openHour": "06:00-22:00",
-        "photo": "https://www.iam.gov.mo/showFile.ashx?p=iamweb/List13/750_55ca3e56289f8b907fd278b18364b00c.jpg",
-        "lat": 22.12677900997999,
-        "lng": 113.55826788299457
+        "photo": "https://www.iam.gov.mo/showFile.ashx?p=iamweb/List13/608_1e3d969aec8dcb7a75483f8ffa22441e.jpg",
+        "lat": 22.12565148286854,
+        "lng": 113.55683408014289
     },
     {
         "type": "iam",
@@ -319,15 +319,6 @@
         "name": "和諧廣場休憩區",
         "address": "路環和諧廣場(樂群樓側)",
         "openHour": "全日",
-        "photo": "https://www.iam.gov.mo/showFile.ashx?p=iamweb/List13/1061_e572e0259283677da0c24423365e30d8.jpg",
-        "lat": 22.129465635629987,
-        "lng": 113.56278817802911
-    },
-    {
-        "type": "iam",
-        "name": "和諧廣場休憩區",
-        "address": "路環和諧廣場(樂群樓側)",
-        "openHour": "全日",
         "photo": "https://www.iam.gov.mo/showFile.ashx?p=iamweb/List13/1060_3840a8f06ef3e16b46a3bccdd6711f00.jpg",
         "lat": 22.129964555594505,
         "lng": 113.56277311558661
@@ -349,6 +340,15 @@
         "photo": "https://www.iam.gov.mo/showFile.ashx?p=iamweb/List13/1058_49a1f307c8f137a885b00c8835160cb2.jpg",
         "lat": 22.129967220528627,
         "lng": 113.56313011165349
+    },
+    {
+        "type": "iam",
+        "name": "和諧廣場休憩區",
+        "address": "路環和諧廣場(樂群樓側)",
+        "openHour": "全日",
+        "photo": "https://www.iam.gov.mo/showFile.ashx?p=iamweb/List13/1061_e572e0259283677da0c24423365e30d8.jpg",
+        "lat": 22.129465635629987,
+        "lng": 113.56278817802911
     },
     {
         "type": "iam",
@@ -409,6 +409,15 @@
         "name": "林茂塘臨時休憩區",
         "address": "澳門林茂海邊大馬路",
         "openHour": "星期一至星期日上午7時至晚上10時",
+        "photo": "https://www.iam.gov.mo/showFile.ashx?p=iamweb/List13/606_f1face91816fd5dddd7d71bd8526592a.jpg",
+        "lat": 22.20413353245026,
+        "lng": 113.53891879320146
+    },
+    {
+        "type": "iam",
+        "name": "林茂塘臨時休憩區",
+        "address": "澳門林茂海邊大馬路",
+        "openHour": "星期一至星期日上午7時至晚上10時",
         "photo": "https://www.iam.gov.mo/showFile.ashx?p=iamweb/List13/825_38c396cc6fc0c74a64ae78ef0447c1ea.jpg",
         "lat": 22.20413353245026,
         "lng": 113.53891879320146
@@ -419,15 +428,6 @@
         "address": "澳門林茂海邊大馬路",
         "openHour": "星期一至星期日上午7時至晚上10時",
         "photo": "https://www.iam.gov.mo/showFile.ashx?p=iamweb/List13/674_7250d04f4688e4d8941bbb719ef7719d.jpg",
-        "lat": 22.20413353245026,
-        "lng": 113.53891879320146
-    },
-    {
-        "type": "iam",
-        "name": "林茂塘臨時休憩區",
-        "address": "澳門林茂海邊大馬路",
-        "openHour": "星期一至星期日上午7時至晚上10時",
-        "photo": "https://www.iam.gov.mo/showFile.ashx?p=iamweb/List13/606_f1face91816fd5dddd7d71bd8526592a.jpg",
         "lat": 22.20413353245026,
         "lng": 113.53891879320146
     },
