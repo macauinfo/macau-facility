@@ -58,18 +58,18 @@
         "name": "大潭山郊野公園",
         "address": "氹仔天文台斜路",
         "openHour": "全日",
-        "photo": "https://www.iam.gov.mo/showFile.ashx?p=iamweb/List13/663_41f22a6ae20ea2c2c715015db505ec31.jpg",
-        "lat": 22.1548527,
-        "lng": 113.561562
+        "photo": "https://www.iam.gov.mo/showFile.ashx?p=iamweb/List13/887_5c59e673d1fd15cdb9954e06d9e13003.jpg",
+        "lat": 22.1583407,
+        "lng": 113.5723572
     },
     {
         "type": "iam",
         "name": "大潭山郊野公園",
         "address": "氹仔天文台斜路",
         "openHour": "全日",
-        "photo": "https://www.iam.gov.mo/showFile.ashx?p=iamweb/List13/887_5c59e673d1fd15cdb9954e06d9e13003.jpg",
-        "lat": 22.1583407,
-        "lng": 113.5723572
+        "photo": "https://www.iam.gov.mo/showFile.ashx?p=iamweb/List13/663_41f22a6ae20ea2c2c715015db505ec31.jpg",
+        "lat": 22.1548527,
+        "lng": 113.561562
     },
     {
         "type": "iam",
@@ -139,15 +139,6 @@
         "name": "氹仔海濱休憩區",
         "address": "氹仔東亞運大馬路、東亞運圓形地及海洋大馬路的沿海位置",
         "openHour": "全日",
-        "photo": "https://www.iam.gov.mo/showFile.ashx?p=iamweb/List13/754_199c732119a9fc5faa2f8cdb996e11b2.jpg",
-        "lat": 22.162572,
-        "lng": 113.541126
-    },
-    {
-        "type": "iam",
-        "name": "氹仔海濱休憩區",
-        "address": "氹仔東亞運大馬路、東亞運圓形地及海洋大馬路的沿海位置",
-        "openHour": "全日",
         "photo": "https://www.iam.gov.mo/showFile.ashx?p=iamweb/List13/554_511b896838519045dcdf1eb782eaaf65.jpg",
         "lat": 22.16281767305374,
         "lng": 113.54107528924945
@@ -160,6 +151,15 @@
         "photo": "https://www.iam.gov.mo/showFile.ashx?p=iamweb/List13/906_c078f156bab97c545f11e201ec59501b.jpg",
         "lat": 22.16420788171024,
         "lng": 113.53966273065454
+    },
+    {
+        "type": "iam",
+        "name": "氹仔海濱休憩區",
+        "address": "氹仔東亞運大馬路、東亞運圓形地及海洋大馬路的沿海位置",
+        "openHour": "全日",
+        "photo": "https://www.iam.gov.mo/showFile.ashx?p=iamweb/List13/754_199c732119a9fc5faa2f8cdb996e11b2.jpg",
+        "lat": 22.162572,
+        "lng": 113.541126
     },
     {
         "type": "iam",
@@ -409,7 +409,7 @@
         "name": "林茂塘臨時休憩區",
         "address": "澳門林茂海邊大馬路",
         "openHour": "星期一至星期日上午7時至晚上10時",
-        "photo": "https://www.iam.gov.mo/showFile.ashx?p=iamweb/List13/825_38c396cc6fc0c74a64ae78ef0447c1ea.jpg",
+        "photo": "https://www.iam.gov.mo/showFile.ashx?p=iamweb/List13/606_f1face91816fd5dddd7d71bd8526592a.jpg",
         "lat": 22.20413353245026,
         "lng": 113.53891879320146
     },
@@ -427,7 +427,7 @@
         "name": "林茂塘臨時休憩區",
         "address": "澳門林茂海邊大馬路",
         "openHour": "星期一至星期日上午7時至晚上10時",
-        "photo": "https://www.iam.gov.mo/showFile.ashx?p=iamweb/List13/606_f1face91816fd5dddd7d71bd8526592a.jpg",
+        "photo": "https://www.iam.gov.mo/showFile.ashx?p=iamweb/List13/825_38c396cc6fc0c74a64ae78ef0447c1ea.jpg",
         "lat": 22.20413353245026,
         "lng": 113.53891879320146
     },
@@ -670,7 +670,7 @@
         "name": "觀音像海濱休憩區",
         "address": "孫逸仙大馬路",
         "openHour": "全日",
-        "photo": "https://www.iam.gov.mo/showFile.ashx?p=iamweb/List13/926_5d6296baffbd3618502cf8453f710b61.jpg",
+        "photo": "https://www.iam.gov.mo/showFile.ashx?p=iamweb/List13/722_31869d2e752e8cb85a06669bbff0e0e7.jpg",
         "lat": 22.186997680219775,
         "lng": 113.5536575317383
     },
@@ -679,16 +679,7 @@
         "name": "觀音像海濱休憩區",
         "address": "孫逸仙大馬路",
         "openHour": "全日",
-        "photo": "https://www.iam.gov.mo/showFile.ashx?p=iamweb/List13/722_31869d2e752e8cb85a06669bbff0e0e7.jpg",
-        "lat": 22.186997680219775,
-        "lng": 113.5536575317383
-    },
-    {
-        "type": "iam",
-        "name": "觀音像海濱休憩區 ",
-        "address": "孫逸仙大馬路",
-        "openHour": "全日",
-        "photo": "https://www.iam.gov.mo/showFile.ashx?p=iamweb/List13/830_e52d3c17157a1a5d39d0d553fb729fb5.jpg",
+        "photo": "https://www.iam.gov.mo/showFile.ashx?p=iamweb/List13/926_5d6296baffbd3618502cf8453f710b61.jpg",
         "lat": 22.186997680219775,
         "lng": 113.5536575317383
     },
@@ -698,6 +689,15 @@
         "address": "孫逸仙大馬路",
         "openHour": "全日",
         "photo": "https://www.iam.gov.mo/showFile.ashx?p=iamweb/List13/616_2af77d6d6ec34797722e9bf1e6377eca.jpg",
+        "lat": 22.186997680219775,
+        "lng": 113.5536575317383
+    },
+    {
+        "type": "iam",
+        "name": "觀音像海濱休憩區 ",
+        "address": "孫逸仙大馬路",
+        "openHour": "全日",
+        "photo": "https://www.iam.gov.mo/showFile.ashx?p=iamweb/List13/830_e52d3c17157a1a5d39d0d553fb729fb5.jpg",
         "lat": 22.186997680219775,
         "lng": 113.5536575317383
     },
