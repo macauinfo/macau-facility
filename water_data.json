@@ -139,18 +139,18 @@
         "name": "氹仔海濱休憩區",
         "address": "氹仔東亞運大馬路、東亞運圓形地及海洋大馬路的沿海位置",
         "openHour": "全日",
-        "photo": "https://www.iam.gov.mo/showFile.ashx?p=iamweb/List13/554_511b896838519045dcdf1eb782eaaf65.jpg",
-        "lat": 22.16281767305374,
-        "lng": 113.54107528924945
+        "photo": "https://www.iam.gov.mo/showFile.ashx?p=iamweb/List13/906_c078f156bab97c545f11e201ec59501b.jpg",
+        "lat": 22.16420788171024,
+        "lng": 113.53966273065454
     },
     {
         "type": "iam",
         "name": "氹仔海濱休憩區",
         "address": "氹仔東亞運大馬路、東亞運圓形地及海洋大馬路的沿海位置",
         "openHour": "全日",
-        "photo": "https://www.iam.gov.mo/showFile.ashx?p=iamweb/List13/906_c078f156bab97c545f11e201ec59501b.jpg",
-        "lat": 22.16420788171024,
-        "lng": 113.53966273065454
+        "photo": "https://www.iam.gov.mo/showFile.ashx?p=iamweb/List13/554_511b896838519045dcdf1eb782eaaf65.jpg",
+        "lat": 22.16281767305374,
+        "lng": 113.54107528924945
     },
     {
         "type": "iam",
@@ -319,6 +319,15 @@
         "name": "和諧廣場休憩區",
         "address": "路環和諧廣場(樂群樓側)",
         "openHour": "全日",
+        "photo": "https://www.iam.gov.mo/showFile.ashx?p=iamweb/List13/1061_e572e0259283677da0c24423365e30d8.jpg",
+        "lat": 22.129465635629987,
+        "lng": 113.56278817802911
+    },
+    {
+        "type": "iam",
+        "name": "和諧廣場休憩區",
+        "address": "路環和諧廣場(樂群樓側)",
+        "openHour": "全日",
         "photo": "https://www.iam.gov.mo/showFile.ashx?p=iamweb/List13/1060_3840a8f06ef3e16b46a3bccdd6711f00.jpg",
         "lat": 22.129964555594505,
         "lng": 113.56277311558661
@@ -340,15 +349,6 @@
         "photo": "https://www.iam.gov.mo/showFile.ashx?p=iamweb/List13/1058_49a1f307c8f137a885b00c8835160cb2.jpg",
         "lat": 22.129967220528627,
         "lng": 113.56313011165349
-    },
-    {
-        "type": "iam",
-        "name": "和諧廣場休憩區",
-        "address": "路環和諧廣場(樂群樓側)",
-        "openHour": "全日",
-        "photo": "https://www.iam.gov.mo/showFile.ashx?p=iamweb/List13/1061_e572e0259283677da0c24423365e30d8.jpg",
-        "lat": 22.129465635629987,
-        "lng": 113.56278817802911
     },
     {
         "type": "iam",
