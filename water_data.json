@@ -121,18 +121,18 @@
         "name": "氹仔中央公園",
         "address": "成都街, 7號",
         "openHour": "06:00-24:00",
-        "photo": "https://www.iam.gov.mo/showFile.ashx?p=iamweb/List13/565_dc37ec550d44cb69d2521b30b78b2e41.jpg",
-        "lat": 22.159675707503062,
-        "lng": 113.55417640775396
+        "photo": "https://www.iam.gov.mo/showFile.ashx?p=iamweb/List13/648_eed4c84d5c9f8b0abed39c83eb11a164.jpg",
+        "lat": 22.158403862706503,
+        "lng": 113.55509811765803
     },
     {
         "type": "iam",
         "name": "氹仔中央公園",
         "address": "成都街, 7號",
         "openHour": "06:00-24:00",
-        "photo": "https://www.iam.gov.mo/showFile.ashx?p=iamweb/List13/648_eed4c84d5c9f8b0abed39c83eb11a164.jpg",
-        "lat": 22.158403862706503,
-        "lng": 113.55509811765803
+        "photo": "https://www.iam.gov.mo/showFile.ashx?p=iamweb/List13/565_dc37ec550d44cb69d2521b30b78b2e41.jpg",
+        "lat": 22.159675707503062,
+        "lng": 113.55417640775396
     },
     {
         "type": "iam",
@@ -409,7 +409,7 @@
         "name": "林茂塘臨時休憩區",
         "address": "澳門林茂海邊大馬路",
         "openHour": "星期一至星期日上午7時至晚上10時",
-        "photo": "https://www.iam.gov.mo/showFile.ashx?p=iamweb/List13/606_f1face91816fd5dddd7d71bd8526592a.jpg",
+        "photo": "https://www.iam.gov.mo/showFile.ashx?p=iamweb/List13/825_38c396cc6fc0c74a64ae78ef0447c1ea.jpg",
         "lat": 22.20413353245026,
         "lng": 113.53891879320146
     },
@@ -427,7 +427,7 @@
         "name": "林茂塘臨時休憩區",
         "address": "澳門林茂海邊大馬路",
         "openHour": "星期一至星期日上午7時至晚上10時",
-        "photo": "https://www.iam.gov.mo/showFile.ashx?p=iamweb/List13/825_38c396cc6fc0c74a64ae78ef0447c1ea.jpg",
+        "photo": "https://www.iam.gov.mo/showFile.ashx?p=iamweb/List13/606_f1face91816fd5dddd7d71bd8526592a.jpg",
         "lat": 22.20413353245026,
         "lng": 113.53891879320146
     },
